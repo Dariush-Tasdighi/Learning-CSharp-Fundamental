@@ -6,20 +6,20 @@
 // **************************************************
 
 // **************************************************
-//int count = 5;
+//int number = 5;
 //int index = 1;
 
-//while(index <= count)
+//while(index <= number)
 //{
 //	System.Console.WriteLine("Hello, World!");
 //}
 // **************************************************
 
 // **************************************************
-//int count = 5;
+//int number = 5;
 //int index = 1;
 
-//while (index <= count)
+//while (index <= number)
 //{
 //	System.Console.WriteLine("Hello, World!");
 
@@ -31,10 +31,10 @@
 // **************************************************
 
 // **************************************************
-//int count = 5;
+//int number = 5;
 //int index = 1;
 
-//while (index <= count)
+//while (index <= number)
 //{
 //	System.Console.WriteLine(index);
 
@@ -43,10 +43,10 @@
 // **************************************************
 
 // **************************************************
-//int count = 20;
+//int number = 20;
 //int index = 1;
 
-//while (index <= count)
+//while (index <= number)
 //{
 //	System.Console.WriteLine(index);
 
@@ -56,10 +56,10 @@
 // **************************************************
 
 // **************************************************
-//int count = 100;
+//int number = 100;
 //int index = 7;
 
-//while (index <= count)
+//while (index <= number)
 //{
 //	System.Console.WriteLine(index);
 
